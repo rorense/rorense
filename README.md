@@ -1,24 +1,21 @@
 ### Welcome to my GitHub Profile 👋
 
+## About me
+
 Here you will find all the projects I am working on!
 
-:safety_vest: I am currently a Mechanical Engineer working at a Construction Company.
+🦺 I am currently a Mechanical Engineer working at a Construction Company.
 
-:computer: With a new found passion for software, development and technology.
+💻 With a new found passion for software, development and technology.
 
-:robot: Proficient in Javascript, HTML & CSS, Java, Matlab and VB
+🤖 Proficient in Javascript, HTML & CSS, Java, Matlab and VB.
 
-<!--
-**rorense/rorense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍🎓 Always learning and self-improvement.
 
-Here are some ideas to get you started:
+📱 Currently learning App development on Swift
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Hobbies Include:
+
+- 🏃‍♂️ Running
+- 🧑‍🍳 Cooking for my friends and family
+- 🕺 Dancing
