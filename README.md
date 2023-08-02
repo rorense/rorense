@@ -4,7 +4,7 @@
 
 Here you will find all the projects I am working on!
 
-🦺 I am currently a Mechanical Engineer working at a Construction Company.
+🦺 I have experience as a Mechanical Engineer at a Construction Company.
 
 💻 With a newfound passion for software, development and technology.
 
@@ -14,7 +14,7 @@ Here you will find all the projects I am working on!
 
 🧑‍🎓 Always learning and self-improvement.
 
-📱 Currently learning App development on Swift
+📱 Currently learning App development on React Native
 
 ## My Hobbies Include:
 
