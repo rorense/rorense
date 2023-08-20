@@ -10,7 +10,7 @@ Here you will find all the projects I am working on!
 
 🤖 Proficient in Javascript, HTML & CSS, Matlab and VB.
 
-🧑‍💻 Competent at React, node JS and Typescript
+🧑‍💻 Competent at React, Node JS and Typescript
 
 🧑‍🎓 Always learning and self-improvement.
 
@@ -21,3 +21,5 @@ Here you will find all the projects I am working on!
 - 🏃‍♂️ Running
 - 🧑‍🍳 Cooking for my friends and family
 - 🕺 Dancing
+- 🥊Boxing
+- 🛹Skateboarding
