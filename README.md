@@ -2,10 +2,10 @@
 
 Please visit my Portfolio website below:
 
-https://ryandev.tech/
+<br>🔗 https://rorense.github.io/ryan-portfolio/
 
 # 💫 About Me:
-🦺 I have experience as a Mechanical Engineer at a Construction Company.<br>💻 With a newfound passion for software, development and technology.<br>🤖 Proficient in Javascript, HTML & CSS, Matlab and VB.<br>🧑‍💻 Competent at React, Node JS and Typescript<br>🧑‍🎓 Always learning and self-improvement.<br>📱 Currently learning App development on React Native
+🦺 Mechanical / Plant & Equipment Engineer background on Auckland’s Central Interceptor (Ghella Abergelide JV).<br>💻 Now in software full time: freelance React & Next.js builds, then Full Stack Developer at Gherkin Media (100+ clients, APIs, WordPress, SQL/NoSQL).<br>🤖 Proficient in JavaScript, HTML & CSS, MATLAB and VB; solid TypeScript for production apps.<br>🧑‍💻 Competent with React, Next.js, Node.js, WordPress, Shopify/Liquid, and React Native (Expo).<br>☁️ AWS Certified Cloud Practitioner (2025); comfortable with AWS S3/EC2/Lambda/Lightsail, Cloudflare, Stripe, Git.<br>🎓 B.E. (Hons) Mechanical Engineering & Postgraduate Certificate in IT — University of Auckland.<br>📱 Actively building with React Native (e.g. App Store–shipped gallery app + personal apps) and still leveling up mobile product craft.<br>🧑‍🎓 Always learning—currently including AI/automation tooling (OpenAI, Claude, n8n) alongside shipping client work.<br>🏸 Based in Auckland, NZ; off the clock: pickleball & Shorinji Kempo.
 
 # My Hobbies Include:
 
